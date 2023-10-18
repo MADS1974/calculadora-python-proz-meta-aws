@@ -9,5 +9,7 @@ Faça uma função calculadora de dois números com três parâmetros: os dois p
 
 Caso seja inserido um número de operação que não exista, o resultado deverá ser 0.
 
+#No projeto fiz a calculadora usando a função eval(), onde você insere a operação como uma única string (por exemplo, "8+2"), e a função eval() é usada para avaliar a expressão e calcular o resultado. Isso permite que você insira a operação diretamente como uma única entrada e receba o resultado imediatamente. 
+
 * [LinkedIN](https://www.linkedin.com/in/mads1974/)
 * [Portal Proz/Join](https://portaltech.joyclass.com/)
